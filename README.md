@@ -1,4 +1,4 @@
-# Projeto Organo - Pessoas e Times - React.JS
+# Projeto Alfabit Monorepo - React.JS - Design System
 
 ![Tela Principal](./screenshot/tela-principal.png)
 
@@ -22,7 +22,7 @@
 
 ## Layout
 
-[Layout no Figma](<>)
+[Layout no Figma]()
 
 ## Descrição
 
