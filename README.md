@@ -1,4 +1,4 @@
-# Projeto Alfabit Monorepo - React.JS - Design System
+# Projeto Alfabit Monorepo - React - Design System
 
 ![Tela Principal](./screenshot/tela-principal.png)
 
