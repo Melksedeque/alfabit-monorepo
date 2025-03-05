@@ -22,7 +22,7 @@
 
 ## Layout
 
-[Layout no Figma]()
+[Layout no Figma](<https://www.figma.com/design/77vXUhArXMYOiuuRUbYqVf/React%3A-Turborepo%2C-componentes-e-storybook-%7C-Alfabit-(Community)?node-id=0-1&p=f&t=oSFvHSNnn9XKni4z-0>)
 
 ## Descrição
 
