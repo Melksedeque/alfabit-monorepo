@@ -28,15 +28,63 @@
 
 ### Principais recursos incluem:
 
-### Proximos passos de desenvolvimento
+- Componentes do Design System (Button, Input, TextBlock)
+- Suporte a temas personalizáveis (light, dark e custom)
+- Documentação interativa com Storybook
+- Estrutura de monorepo usando Turborepo
+- Pacotes independentes e reutilizáveis
+- Demo app usando Remix.js
 
 ## Tecnologias Utilizadas
 
+- React
+- TypeScript
+- Styled Components
+- Turborepo
+- pnpm (Package Manager)
+- Storybook
+- Remix.js
+- Tailwind CSS
+
 ## Estrutura de Pastas
+
+```
+.
+├── apps/
+│   ├── alfabit-demo/    # Aplicação demo em Remix.js
+│   └── docs/            # Documentação Storybook
+├── packages/
+│   ├── alfabit-button/      # Componente Button
+│   ├── alfabit-input/       # Componente Input
+│   ├── alfabit-textblock/   # Componente TextBlock
+│   ├── alfabit-tokens/      # Design tokens
+│   └── component-template/  # Template para novos componentes
+└── scripts/
+    └── create-component.js  # Script para criar novos componentes
+```
 
 ### Arquivos Principais:
 
 ## Como Instalar e Rodar o Projeto
+
+1. Clone o repositório
+2. Instale as dependências:
+
+```bash
+pnpm install
+```
+
+3. Para desenvolvimento:
+
+```bash
+pnpm dev
+```
+
+4. Para build:
+
+```bash
+pnpm build
+```
 
 ### Configuração
 
